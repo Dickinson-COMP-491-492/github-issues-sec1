@@ -46,7 +46,7 @@ public class Calculator {
 	 * @return x * y
 	 */
 	public double mult(double x, double y) {
-		return x * y;
+		return x * y; // fixed by jmac
 	}
 
 	/**
