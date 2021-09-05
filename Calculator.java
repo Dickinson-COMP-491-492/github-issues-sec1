@@ -46,7 +46,7 @@ public class Calculator {
 	 * @return x * y
 	 */
 	public double mult(double x, double y) {
-		return x * y; // fixed by jmac 
+		return x;
 	}
 
 	/**
@@ -144,6 +144,4 @@ public class Calculator {
 	public double sphVol(double r) {
 		return 2 * Math.PI * r;
 	}
-	
-	// adding this line to practice merging
 }
