@@ -144,4 +144,6 @@ public class Calculator {
 	public double sphVol(double r) {
 		return 2 * Math.PI * r;
 	}
+	
+	// adding this line to practice merging
 }
