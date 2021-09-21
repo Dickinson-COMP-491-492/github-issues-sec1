@@ -4,6 +4,7 @@
  * Note: This code contains lots of intentional mistakes. They all correspond to
  * issues in the GitHub issue tracker and will be fixed as a part of the
  * activity.
+ * Fixing the issue: Incorrect additions in plus method #1 
  * 
  * @author braught
  * @version 1.0
