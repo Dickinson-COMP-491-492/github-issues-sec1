@@ -20,8 +20,8 @@ public class Calculator {
 	 *            a double
 	 * @return x + y
 	 */
-	public double plus(double x, double y) {
-		return x - y;
+	public double add(double x, double y) {
+		return x + y;
 	}
 
 	/**
