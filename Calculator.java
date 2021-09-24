@@ -120,7 +120,7 @@ public class Calculator {
 	 *            the radius
 	 * @return the perimeter of a circle with radius r.
 	 */
-	public double cirPer(double r) {
+	public static double cirPer(double r) {
 		return Math.PI * r * 2;
 	}
 
@@ -131,8 +131,8 @@ public class Calculator {
 	 *            the side length
 	 * @return the volume of a cube with sides of length s.
 	 */
-	public double cubeVol(double s) {
-		return 4 * s;
+	public static double cubeVol(double s) {
+		return s*s*s;
 	}
 	
 	/**
@@ -142,7 +142,7 @@ public class Calculator {
 	 *            the radius
 	 * @return the volume of a sphere with radius r.
 	 */
-	public double sphereVolume(double r) {
+	public static double sphVol(double r) {
 		return 4/3 * Math.PI * r*r*r;
 	}
 }
