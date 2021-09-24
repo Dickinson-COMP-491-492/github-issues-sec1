@@ -85,7 +85,7 @@ public class Calculator {
 	 *            the length of the other side.
 	 * @return the area of a rectangle with sides x and y.
 	 */
-	public double rectangleArea(double x, double y) {
+	public static double rectangleArea(double x, double y) {
 		return x*y;
 	}
 
