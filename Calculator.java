@@ -21,7 +21,7 @@ public class Calculator {
 	 * @return x + y
 	 */
 	public static double add(double x, double y) {
-		return x - y;
+		return x + y;
 	}
 
 	/**
@@ -60,7 +60,7 @@ public class Calculator {
 	 * @return x/y
 	 */
 	public static double div(double x, double y) {
-		return y / x;
+		return x/y;
 	}
 
 	/**
