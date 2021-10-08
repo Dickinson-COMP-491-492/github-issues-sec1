@@ -46,7 +46,7 @@ public class Calculator {
 	 *            a double
 	 * @return x * y
 	 */
-	public static double mult(double x, double y) {
+	public static double multiply(double x, double y) {
 		return x * y;
 	}
 
